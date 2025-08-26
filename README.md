@@ -6,19 +6,17 @@
 
 ## 🚀 About Me  
 - 🔹 Strong in **micro-architecture definition** and **spec-to-RTL translation**  
-- 🔹 Skilled at writing **clean, reusable, synthesizable RTL (Verilog/SystemVerilog)**  
+- 🔹 Skilled at writing **clean, reusable, synthesizable RTL (Verilog/VHDL)**  
 - 🔹 Passionate about **exploring different architectures** to optimize performance, power, and area  
-- 🔹 Experienced with **FPGA prototyping, verification, and MATLAB simulations**  
 - 🔹 Always curious about **digital systems, SoCs, and hardware accelerators**  
 
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages:** Verilog, SystemVerilog, VHDL, C, Python, MATLAB  
-- **Digital Design:** RTL Design, FSMs, Pipelining, Low-Power Design, Protocols (AXI, SPI, I2C, UART)  
+- **Languages:** Verilog, VHDL, C++, MATLAB  
+- **Digital Design:** RTL Design, FSMs, Low-Power Design, Protocols (AXI, SPI, I2C, UART)  
 - **Verification:** Testbenches, Waveform Debugging, ModelSim/QuestaSim  
 - **FPGA Tools:** Xilinx Vivado, Intel Quartus  
-- **EDA Tools:** Synopsys Design Compiler, Cadence Genus, SpyGlass  
 - **Other:** Git, Linux, Shell/Tcl scripting  
 
 ---
@@ -30,7 +28,31 @@
 
 ### 🔸 Traffic Light Controller  
 - Built a digital **traffic light controller circuit** with decade counters, 7-segment displays, and a **555 timer as clock generator**.  
-- Implemented **state-based transitions** and simulated in Proteus/Logisim before hardware testing.  
+- Implemented **state-based transitions** and simulated in Proteus/Logisim before hardware testing.
+  
+🔸 8-bit Microprocessor (VHDL) — Aug 2025
+
+Designed and implemented an 8-bit microprocessor in VHDL, including ALU, control unit, registers, and memory interface.
+
+Developed a custom instruction set architecture (ISA) supporting arithmetic, logic, and data transfer operations.
+
+Verified functionality using ModelSim and tested the design on an FPGA development board.
+
+🔸 I2C Master (Verilog) — Aug 2025
+
+Designed and implemented an I2C Master controller in Verilog for serial communication with slave devices.
+
+Developed FSM-based control logic for start/stop conditions, address/data transfer, and ACK/NACK handling.
+
+Verified functionality through ModelSim simulation and tested operation on an FPGA development board.
+
+🔸 Digital Lock (Hardware Implementation) — Aug 2025
+
+Designed a Digital Lock system using logic gates and memory elements.
+
+Programmed an EEPROM to implement FSM logic for multiple trials and triggering a security alarm.
+
+Verified functionality using Proteus simulator.
 
 ---
 
@@ -40,9 +62,8 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link)  
-- 📧 Email: your.email@example.com  
-- 🏗️ Upwork: [Your Upwork Profile](https://www.upwork.com/freelancers/~your-profile)  
+- 💼 LinkedIn: https://www.linkedin.com/in/taqi-ahmed-709b82319/  
+- 📧 Email: taqi.eldeeb@gmail.com 
 
 ---
 
